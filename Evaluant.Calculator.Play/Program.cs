@@ -11,7 +11,7 @@ namespace NCalc.Play
 		{
 
 
-			var expressions = new[]
+			var expressions =
 			{
 				"2 * (3 + 5)",
 				"2 * (2*(2*(2+1)))",
